@@ -1,12 +1,11 @@
 ## ImageView
----
+
 ```java
 android:src="@mipmap/ic_launcher"   // 이미지 가져오기
 ```
 </br>
 
 ## Toast
----
 ```java
 Toast.makeText(getApplicationContext(), "안녕하세요", Toast.LENGTH_SHORT).show();  
 ```

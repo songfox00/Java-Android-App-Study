@@ -1,5 +1,4 @@
 ## EditText
----
 ```java
 <EditText
     android:id="@+id/edit"  //id 값
@@ -13,7 +12,6 @@ setText("Hello World!");    //텍스트 수정
 </br>
 
 ## Button
----
 ```java
 <Button
     android:id="@+id/btn"
