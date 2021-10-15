@@ -10,7 +10,7 @@ String value=sharedPreferences.getString("hong", "");   //꺼내오기
 앱 종료시 실행
 
 ```java
-protected void onDestroy() {    //앱 종료시
+protected void onDestroy() {  
     super.onDestroy();
 
     SharedPreferences sharedPreferences=getSharedPreferences(shared, 0);
